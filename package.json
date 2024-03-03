@@ -1,5 +1,5 @@
 {
-  "name": "Teh",
+  "name": "yogiczempire",
   "version": "0.1.1",
   "scripts": {
     "dev": "next dev",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mohammadyogi/Teh"
+    "url": "git+https://github.com/mohammadyogi/Teh.git"
   },
   "author": "",
   "license": "ISC",
