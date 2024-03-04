@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohammadyogi/Teh.git"
+    "url": "https://github.com/mohammadyogi/Teh"
   },
   "author": "",
   "license": "ISC",
